@@ -1,6 +1,4 @@
-//INSTRUCTION
-//Look for ** to complete all of them
-//The output should match my assingment sheet
+
 
 //=========================================================
 //HW#: HW3P1 llist
